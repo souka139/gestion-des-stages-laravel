@@ -1,0 +1,8 @@
+Important !!!
+
+The storage link does not working after moving the project to another directory or system.
+
+Solution :
+**********
+
+remove the storage folder in the "public/storage" then run the artisan command "php artisan storage:link"

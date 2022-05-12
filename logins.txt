@@ -1,0 +1,21 @@
+1)profile admin:
+***************
+email: admin@gmail.com
+password: admin@2022
+
+2)profile etudiant:
+******************
+
+email: soukaina.laaroussi1@uit.ac.ma
+password : souka@2022  
+
+(avant la mise à jour de mot de pass :AZERTY)
+
+3)profile ensignant :
+*********************
+
+email: karim.moha@uit.ac.ma
+password : AZERTY
+
+
+
